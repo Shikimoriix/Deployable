@@ -1,3 +1,5 @@
+<div align="center"><sup>At least Give A Star and Fork The Repository</sup></div>
+
 **How to make any App or Application deployable on a Web based Platform like Koyeb & Render?**
 
 - **Introduction** 
@@ -79,9 +81,13 @@ gunicorn app:app & python3 bot.py
 **Here are app is ready to be deployed on any web based platform.**
 
 </details>
+<details open><b>
+<summary>Credits</b></summary>
 
+- [Hitesh Rajput](https://github.com/Hiteshxd)
+- [Itachi Uchiha](https://github.com/ikx7a)
 
-
+</details>
 
 
 
