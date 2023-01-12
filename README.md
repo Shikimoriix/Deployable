@@ -35,7 +35,7 @@ aiohttp==3.8.1
 <details><b>
 <summary>For Example</b></summary>
 
-[<img src="https://lh3.googleusercontent.com/-8zC0EpVL2fQ/Y6rt9qsdecI/AAAAAAAAAPE/I_J00EhwXFkYTzTxjaC7_mwe5AG1bXB7QCNcBGAsYHQ/s1600/1672146420019984-0.png?raw=true"/>](https://github.com/ikx7a)
+[<img src="https://github.com/ikx7a/Deployable/blob/main/Resources/SS1.png?raw=true"/>](https://github.com/ikx7a)
 
 **NOTE** - Add These Dependencies In Your **requirements.txt** File 
 
@@ -59,7 +59,7 @@ if __name__ == "__main__":
 <details><b>
 <summary>For Example</b></summary>
 
-[<img src="https://lh3.googleusercontent.com/-SSjoGB2SKhY/Y6rt9HlD-lI/AAAAAAAAAPA/8BfIsEltQeosN6H910NjbZpDbm4y-_6dACNcBGAsYHQ/s1600/1672146416995416-1.png?raw=true"/>](https://github.com/ikx7a)
+[<img src="https://github.com/ikx7a/Deployable/blob/main/Resources/SS2.png?raw=true"/>](https://github.com/ikx7a)
 
 </details>
 
@@ -74,7 +74,7 @@ gunicorn app:app & python3 bot.py
 <details><b>
 <summary>For Example</b></summary>
 
-[<img src="https://lh3.googleusercontent.com/-ejMFZr4Tfqo/Y6rt8d2eVsI/AAAAAAAAAO8/8YniJFb5z2kCZwbZnweCg3iH03BiB5DSQCNcBGAsYHQ/s1600/1672146413900752-2.png?raw=true"/>](https://github.com/ikx7a)
+[<img src="https://github.com/ikx7a/Deployable/blob/main/Resources/SS3.png?raw=true"/>](https://github.com/ikx7a)
 
 **Here are app is ready to be deployed on any web based platform.**
 
