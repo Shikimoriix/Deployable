@@ -65,11 +65,11 @@ if __name__ == "__main__":
 
 **3) Create a new File named as "run cmd.txt"**
 
-*gunicorn app:app & python3* "YOUR-APP-RUN-COMMAND"
-
 ```
 gunicorn app:app & python3 bot.py
 ```
+
+*"YOUR-APP-RUN-COMMAND"*
 
 <details><b>
 <summary>For Example</b></summary>
