@@ -1,4 +1,7 @@
-<div align="center"><sup>At least Give A Star and Fork The Repository</sup></div>
+<div align="center">
+ <sup>At least Give A Star and Fork The Repository
+ </sup>
+</div>
 
 **How to make any App or Application deployable on a Web based Platform like Koyeb & Render?**
 
